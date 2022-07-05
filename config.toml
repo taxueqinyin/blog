@@ -2,3 +2,28 @@ baseURL = 'https://taxueqinyin.github.io/blog/'
 languageCode = 'cn-zh'
 title = '踏雪琴音的个人博客'
 theme = 'm10c'
+author = '踏雪琴音'
+description = '踏雪琴音的个人博客'
+avatar = 'E:\site\blog\image.jpg'
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 2
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 3
+[params.style]
+  darkestColor = "#315659"
+  darkColor = "#253031"
+  lightColor = "#96a879"
+  lightestColor = "#fff"
+  primaryColor = "#dad865"
