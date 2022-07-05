@@ -1,4 +1,4 @@
 baseURL = 'https://taxueqinyin.github.io/blog/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+languageCode = 'cn-zh'
+title = '踏雪琴音的个人博客'
 theme = 'm10c'
